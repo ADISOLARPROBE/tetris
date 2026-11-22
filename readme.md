@@ -1,4 +1,4 @@
-# Terminal Tetris in C (Lab Project)
+# Terminal Tetris in C 
 
 A simplified, single-file terminal Tetris game written in C for Windows, built as a C programming lab project. 149 lines of code.
 
