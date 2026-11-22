@@ -143,16 +143,3 @@ A/D: Move | W: Rotate | S: Drop | Q: Quit
 
 ```
 
-## Possible Future Improvements
-
-* Display a **Next Piece** preview box beside the board.
-
-* Increase gravity speed automatically as the player's score rises (level progression).
-
-* Add colored Tetrominoes using Windows Console API attributes (`SetConsoleTextAttribute`).
-
-* Save and load the all-time **High Score** using a local text file (`highscore.txt`).
-
-## Acknowledgments
-
-* Simplified from [svedev0/tetris-c](https://github.com/svedev0/tetris-c) for educational and lab demonstration purposes.
